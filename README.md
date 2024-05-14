@@ -24,6 +24,15 @@ O Site Focus é uma ferramenta de gestão de tempo projetada para ajudá-lo a ge
 ![image](https://github.com/eduardoaalmeidaa/Focus/assets/89856553/fb478b8d-7228-463d-bf75-c9e815302dab)
 ![image](https://github.com/eduardoaalmeidaa/Focus/assets/89856553/ba372695-9183-45e1-8406-207781e66449)
 
+# MOBILE
+![image](https://github.com/eduardoaalmeidaa/Focus/assets/89856553/610dd145-09f3-48a2-b90f-4debf9b3f970)
+![image](https://github.com/eduardoaalmeidaa/Focus/assets/89856553/eaa206da-ef87-4b97-94e3-e69a5a8704d3)
+![image](https://github.com/eduardoaalmeidaa/Focus/assets/89856553/338b5bc5-8706-4168-893b-d0e6a6e67fca)
+![image](https://github.com/eduardoaalmeidaa/Focus/assets/89856553/f7c1cf64-4601-4eb1-8d42-cf7015a8ccdf)
+
+
+
+
 
 
 
