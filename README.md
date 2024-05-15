@@ -3,6 +3,8 @@
 ## Visão Geral
 O Site Focus é uma ferramenta de gestão de tempo projetada para ajudá-lo a gerenciar suas atividades diárias de forma eficiente. Baseado no método Pomodoro, ele permite que você tenha um maior controle sobre o seu tempo, facilitando a concentração e o aumento da produtividade.
 
+### LINK PARA ACESSAR O SITE = https://mellow-strudel-a67bf6.netlify.app/
+
 ## Principais Recursos
 - **Método Pomodoro**: Utilize a técnica Pomodoro para dividir o tempo em períodos de trabalho e descanso, maximizando sua concentração e eficácia.
 - **Armazenamento Local**: O Site Focus utiliza o LocalStorage para armazenar seus dados localmente, garantindo que suas configurações e histórico de atividades estejam sempre disponíveis.
